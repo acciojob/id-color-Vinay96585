@@ -1,20 +1,16 @@
 /*  your css code here. If applicable */
 #yel{
 	background-color:yellow;
-	Border-width:1px;
-	Border-color:green;
-	
+	border:1px solid green;
 }
 #re{
 	background-color:red;
-		Border-width:1px;
-	Border-color:black;
-	
+	border:1px solid black	
 }
 
 #gre{
 	background-color:green;
-		Border-width:1px;
-	Border-color:yellow;
+		
+	Border:1px solid yellow;
 	
 }
